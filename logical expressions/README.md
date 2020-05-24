@@ -1,6 +1,9 @@
 Needed:
+        
         make
+        
         flex
+        
         bison
 
 Download/clone the repository. Move to the directory on your local machine and use **make** command. It will automatically generate and compile all neede files. Start program by executing logical_expessions file (./logical_expressions).
