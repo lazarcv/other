@@ -9,7 +9,7 @@
 #include "formula.hpp"
 #include "parser.tab.hpp"
 %}
-
+#i was faster this time
 %%
 [a-z][a-z0-9]*   {
     yylval.str_type=new std::string(yytext);
