@@ -9,6 +9,7 @@
 #include "formula.hpp"
 #include "parser.tab.hpp"
 %}
+#added command "hello world "
 
 %%
 [a-z][a-z0-9]*   {
